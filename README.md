@@ -1,2 +1,2 @@
-# slasharchitects
-slasharchitects architecture studio's official website: www.slasharchitects.com
+# quentin gaucher
+Quentin Gaucher's portfolio website: www.quentingaucher.com
